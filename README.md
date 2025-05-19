@@ -10,7 +10,7 @@ Caesar Cipher is a web page that uses the Caesar cipher method to encrypt and de
 - ~~Section with interactive buttons to access the developer's GitHub and LinkedIn profiles.~~
 
 ## Demo
-### [Link to Caesar Cipher Demo](https://eze-cm.github.io/Cifrador-Cesar/)
+### [Link to Caesar Cipher Demo](https://leo-em.github.io/Cifrador-Cesar/)
 
 ## Technologies used:
  * `HTML` 
@@ -42,7 +42,7 @@ Developed by [Leonardo Corales](https://github.com/Eze-CM)
 
 ## Contact
 You can find me at:
-- ### [GitHub](https://github.com/Eze-CM)
+- ### [GitHub](https://github.com/Leo-EM)
 - ### [LinkedIn](https://www.linkedin.com/in/leonardo-corales/)
 
 ---
@@ -59,7 +59,7 @@ Cifrador César es una página web que utiliza el método de cifrado César para
 - ~~Sección con botones interactivos para acceder al perfil de GitHub y LinkedIn del desarrollador.~~
 
 ## Demo
-### [Link a la demo del Cifrador César](https://eze-cm.github.io/Cifrador-Cesar/)
+### [Link a la demo del Cifrador César](https://leo-em.github.io/Cifrador-Cesar/)
 
 ## Tecnologías usadas:
  * `HTML` 
@@ -80,5 +80,5 @@ Si deseas contribuir a este proyecto y mejorar el Cifrador César, sigue estos p
 
 ## Contacto
 Puedes encontrarme en:
-- ### [GitHub](https://github.com/Eze-CM)
+- ### [GitHub](https://github.com/Leo-EM)
 - ### [LinkedIn](https://www.linkedin.com/in/leonardo-corales/)
