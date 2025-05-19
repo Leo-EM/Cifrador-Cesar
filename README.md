@@ -24,8 +24,8 @@ Caesar Cipher is a web page that uses the Caesar cipher method to encrypt and de
 -->
 
 ## Installation
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+1. Clone this repository to your local machine using the CMD or Git Bash console `git clone https://github.com/Leo-EM/Cifrador-Cesar.git`
+2. Enter the cloned project and open the `index.html` file in your web browser.
 
 ## How to Contribute
 If you want to contribute to this project and improve Caesar Cipher, follow these steps:
@@ -67,8 +67,8 @@ Cifrador César es una página web que utiliza el método de cifrado César para
  * `JavaScript`
 
 ## Instalación
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `index.html` en tu navegador web.
+1. Clona este repositorio en tu máquina local usando la consola de CMD o Git Bash `git clone https://github.com/Leo-EM/Cifrador-Cesar.git`
+2. Entra al projecto clonado y abre el archivo `index.html` en tu navegador web.
 
 ## Cómo contribuir
 Si deseas contribuir a este proyecto y mejorar el Cifrador César, sigue estos pasos:
