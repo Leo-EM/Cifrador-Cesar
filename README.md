@@ -4,7 +4,7 @@
 Caesar Cipher is a web page that uses the Caesar cipher method to encrypt and decrypt messages. It allows users to enter a text and apply the Caesar cipher with a specific shift. This project is a basic implementation of the Caesar cipher and it is planned to be improved by adding more features and functionalities.
 
 ## Features
-- Encryption and decryption of messages using the Caesar cipher method.
+- Encryption of messages using the Caesar cipher method.
 - Simple and user-friendly interface.
 - ~~Button to get information about the history and operation of the Caesar cipher.~~
 - ~~Section with interactive buttons to access the developer's GitHub and LinkedIn profiles.~~
@@ -53,7 +53,7 @@ You can find me at:
 Cifrador César es una página web que utiliza el método de cifrado César para codificar y decodificar mensajes. Permite a los usuarios ingresar un texto y aplicar el cifrado César con un desplazamiento específico. Este proyecto es una implementación básica del cifrado César y se planea mejorar agregando más características y funcionalidades.
 
 ## Características
-- Cifrado y descifrado de mensajes utilizando el método César.
+- Cifrado de mensajes utilizando el método César.
 - Interfaz simple y fácil de usar.
 - ~~Botón para obtener información sobre la historia y el funcionamiento del cifrador César.~~
 - ~~Sección con botones interactivos para acceder al perfil de GitHub y LinkedIn del desarrollador.~~

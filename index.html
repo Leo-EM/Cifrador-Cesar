@@ -1,27 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cifrado César</title>
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js/app.js" type="text/javascript" defer></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="Pequeña herramienta para cifrar textos con el método César. Incluye explicación y controles para ajustar el desplazamiento.">
+    <title>Cifrador César</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/app.js" defer></script>
 </head>
 <body>
-    <main>
+    <main class="container">
         <h1>Cifrador César</h1>
 
-        <form id="cipher" autocomplete="off">
-            <input id="origin-input" spellcheck="false" placeholder="Ingrese el texto a cifrar..." type="text" name="text">
+        <section class="description">
+            <p>
+                El <strong>Cifrado César</strong> es una técnica de cifrado clásica que desplaza las letras del alfabeto un número fijo de posiciones. 
+                Es uno de los métodos más antiguos y simples de cifrado, utilizado por Julio César para proteger mensajes militares.
+            </p>
+            <p>
+                Ajusta el valor de desplazamiento y escribe un mensaje para ver cómo se cifra. Ideal para entender los conceptos básicos de la criptografía.
+            </p>
+            <p>
+                Más información: 
+                <a href="https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar" target="_blank" rel="noopener">Wikipedia</a>
+            </p>
+        </section>
 
+        <form id="cipher" autocomplete="off">
+            <input id="origin-input" spellcheck="false" placeholder="Ingrese el texto a cifrar..." type="text" name="text" />
             <div id="result"></div>
         </form>
 
         <div class="range-container">
-            <input id="range" type="range" value="10" min="1" max="20" oninput="this.nextElementSibling.value = this.value">
-            <output>10</output>
+            <input id="range" type="range" value="14" min="1" max="26" oninput="this.nextElementSibling.value = this.value">
+            <output>14</output>
         </div>
     </main>
+
+    <footer>
+        <p>Proyecto de portafolio creado por [Leonardo Corales] - <a href="https://github.com/Leo-EM">GitHub </a></p>
+    </footer>
 </body>
 </html>

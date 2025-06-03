@@ -95,3 +95,62 @@ input[type='range']::-webkit-slider-thumb {
     height: 10px;
     width: 10px;
 }
+
+/* Responsive Container */
+.container {
+    
+    margin: 40px auto;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 14px;
+}
+
+/* Description Section */
+.description {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.description a {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+.description a:hover {
+    color: #fff;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #ccc;
+    margin-top: 40px;
+}
+footer a {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+/* Responsive Text Input */
+@media screen and (max-width: 600px) {
+    #cipher {
+        flex-direction: column;
+    }
+
+    #origin-input, #result {
+        border-radius: 7px;
+        font-size: 18px;
+    }
+
+    .range-container {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    input[type='range'] {
+        height: 25px;
+    }
+}
